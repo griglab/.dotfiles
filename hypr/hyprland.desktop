@@ -1,0 +1,5 @@
+# Config sddm. Add to /usr/share/wayland-sessions and enable sddm.service
+[Desktop Entry]
+Name=Hyprland
+Exec=Hyprland
+Type=Application
