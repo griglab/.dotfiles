@@ -6,3 +6,8 @@
 [user]
 	name = grig
 	email = dev@griglab.com
+	signingkey = 3A3388067094CECA
+[gpg]
+	program = gpg2
+[commit]
+	gpgsign = true
