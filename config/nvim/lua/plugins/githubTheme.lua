@@ -1,6 +1,7 @@
 require("github-theme").setup({
   dark_sidebar = false,
-  comment_style = 'italic',
-  keyword_style = 'italic',
+  comment_style = 'NONE',
+  keyword_style = 'NONE',
+  -- theme_style = 'light_colorblind'
   -- other config
 })
