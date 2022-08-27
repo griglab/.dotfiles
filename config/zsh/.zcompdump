@@ -1,4 +1,4 @@
-#files: 812	version: 5.9
+#files: 809	version: 5.9
 
 _comps=(
 '-' '_precommand'
@@ -1820,8 +1820,7 @@ autoload -Uz _bluetoothctl _bootctl _busctl _bwrap _coredumpctl \
             _zattr _zcalc _zcalc_line _zcompile _zed \
             _zftp _zle _zmodload _zmv _zparseopts \
             _zpty _zsh-mime-handler _zsocket _zstyle _ztodo \
-            _cargo _gopass _rustup _cargo _gopass \
-            _rustup
+            _cargo _gopass _rustup
 autoload -Uz +X _call_program
 
 typeset -gUa _comp_assocs

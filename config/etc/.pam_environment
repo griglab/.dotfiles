@@ -1,3 +1,2 @@
 LIBSEAT_BACKEND=logind
 ZDOTDIR=/home/grig/.config/zsh
-XDG_CACHE_HOME=$HOME/.local/share/cache
