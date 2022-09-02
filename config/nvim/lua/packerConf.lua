@@ -14,11 +14,10 @@ return packer.startup(function(use)
     }
 
     -- Colorscheme
-    use { 'andersevenrud/nordic.nvim' }
-
-    use { 'rktjmp/lush.nvim' }
+    use 'andersevenrud/nordic.nvim'
+    use 'kyazdani42/nvim-web-devicons'
 
     -- Autopairs
-    use { 'windwp/nvim-autopairs' }
+    use 'windwp/nvim-autopairs'
 
 end)

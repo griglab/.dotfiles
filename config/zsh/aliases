@@ -1,0 +1,4 @@
+alias -g ls='ls --color=always'
+alias -g la='ls -la --color=always'
+alias -g nv='nvim'
+alias d='dirs -v'
