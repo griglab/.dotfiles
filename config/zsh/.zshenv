@@ -8,7 +8,6 @@ export GPG_TTY=$(tty)
 # XDG configuration
 export XDG_CONFIG_HOME=$HOME/.config
 export XDG_DATA_HOME=$HOME/.local/share
-export XDG_CACHE_HOME=$HOME/.local/share/cache
 
 # zsh env
 export HISTFILE=$ZDOTDIR/zhistory

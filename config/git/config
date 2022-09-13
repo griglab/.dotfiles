@@ -1,13 +1,5 @@
-[core]
-	repositoryformatversion = 0
-	filemode = true
-	bare = false
-	logallrefupdates = true
 [user]
-	name = grig
-	email = dev@griglab.com
-	signingkey = 3A3388067094CECA
-[gpg]
-	program = gpg2
-[commit]
-	gpgsign = true
+	name = grighq
+	email = ceo@grighq.ru
+[credential]
+	username = grighq
